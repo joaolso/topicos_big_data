@@ -1,0 +1,731 @@
+SKU;Dia;Loja;Cliente;Quantidade;Forma de Pagamento;Tipo;Marca;Custo de compra;Valor de venda;Cor;Código do Cliente;Primeiro Nome;Sobrenome;email;Gênero;Num Filhos;Data de Nascimento;Mes;Dia da semana
+20;2018-01-01;Brasília;63;5;Cartão de Crédito;Casaco;Osklen;22;68;Preto;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+12;2018-01-02;Guarulhos;37;1;Dinheiro;Camiseta;Hering;102;176;Azul;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+19;2018-01-01;Brasília;62;1;Dinheiro;Camisa;Osklen;152;277;Verde;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+4;2018-01-04;Brasília;63;2;Cartão de Crédito;Sandália;Reserva;123;183;Verde;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+9;2018-01-01;Curitiba;40;1;Cartão de Débito;Sapato;Reserva;73;191;Vermelho;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+11;2018-01-06;Curitiba;2;1;Dinheiro;Casaco;Hering;77;154;Azul;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+12;2018-01-07;Brasília;66;5;Boleto;Camiseta;Hering;102;176;Azul;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+16;2018-01-08;Curitiba;19;5;Dinheiro;Bota;Hering;56;106;Vermelho;19;Lizbeth;Kinkaid;lizbeth1@yahoo.com;F;0;1978-04-12;4;2
+6;2018-01-09;Brasília;52;2;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+22;2018-01-10;Belo Horizonte;62;2;Dinheiro;Sandália;Osklen;104;273;Azul;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+20;2018-01-11;Rio Grande do Sul;47;1;Boleto;Casaco;Osklen;22;68;Preto;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+7;2018-01-12;Brasília;69;1;Cartão de Débito;Bota;Reserva;115;267;Preto;69;Chilton;Simkovich;chilton9@globo.com;M;4;1980-12-22;12;0
+28;2018-01-13;Rio Grande do Sul;62;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+22;2018-01-14;Curitiba;67;1;Cartão de Crédito;Sandália;Osklen;104;273;Azul;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+11;2018-01-14;Nova Iguaçu;30;1;Boleto;Casaco;Hering;77;154;Azul;30;Lanna;Cholerton;lanna5@yahoo.com;F;0;1946-12-05;12;3
+25;2018-01-14;Belo Horizonte;36;1;Boleto;Bota;Osklen;43;104;Azul;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+29;2018-01-14;Brasília;83;3;Dinheiro;Camisa;Osklen;102;176;Branco;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+15;2018-01-14;Rio Grande do Sul;32;1;Cartão de Débito;Meia;Hering;12;30;Preto;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+5;2018-01-14;São Paulo;37;1;Dinheiro;Boné;Reserva;92;279;Preto;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+2;2018-01-14;Curitiba;45;1;Dinheiro;Casaco;Reserva;77;207;Vermelho;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+23;2018-01-14;Curitiba;97;5;Cartão de Crédito;Boné;Osklen;72;108;Laranja;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+15;2018-01-14;Curitiba;5;1;Cartão de Crédito;Meia;Hering;12;30;Preto;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+24;2018-01-14;Rio de Janeiro;47;1;Cartão de Débito;Meia;Osklen;5;15;Branco;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+21;2018-01-14;Rio Grande do Sul;50;3;Dinheiro;Camiseta;Osklen;95;288;Laranja;50;Erie;Gon;erie6@gmail.com;M;0;1975-07-18;7;4
+10;2018-01-14;Brasília;5;1;Cartão de Débito;Camisa;Hering;152;220;Azul;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+4;2018-01-14;Belo Horizonte;100;1;Boleto;Sandália;Reserva;123;183;Verde;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+2;2018-01-27;Brasília;17;5;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;17;Colan;Shopcott;colan1@hotmail.com;M;0;1940-06-04;6;1
+4;2018-01-28;Rio de Janeiro;9;3;Cartão de Crédito;Sandália;Reserva;123;183;Verde;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+9;2018-01-29;Nova Iguaçu;25;3;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;25;Steve;Clouter;steve6@gmail.com;M;0;1971-10-29;10;4
+14;2018-01-30;Guarulhos;74;4;Dinheiro;Boné;Hering;129;281;Verde;74;Kasper;Frusher;kasper2@globo.com;M;0;1969-01-06;1;0
+25;2018-01-31;São Paulo;13;1;Dinheiro;Bota;Osklen;43;104;Azul;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+14;2018-02-01;Curitiba;92;1;Cartão de Crédito;Boné;Hering;129;281;Verde;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+6;2018-02-02;Guarulhos;84;1;Dinheiro;Meia;Reserva;23;40;Vermelho;84;Alysia;Hopfner;alysia5@uol.com;F;0;1962-09-18;9;1
+27;2018-02-02;Nova Iguaçu;66;3;Cartão de Crédito;Sapato;Osklen;40;95;Branco;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+30;2018-02-02;Curitiba;24;3;Cartão de Débito;Camisa;Hering;95;288;Branco;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+22;2018-02-02;Brasília;28;2;Cartão de Crédito;Sandália;Osklen;104;273;Azul;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+4;2018-02-02;Nova Iguaçu;2;2;Boleto;Sandália;Reserva;123;183;Verde;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+16;2018-02-02;Rio Grande do Sul;66;1;Cartão de Crédito;Bota;Hering;56;106;Vermelho;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+28;2018-02-02;São Paulo;97;4;Boleto;Camisa;Reserva;72;110;Branco;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+11;2018-02-02;São Paulo;51;1;Dinheiro;Casaco;Hering;77;154;Azul;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+24;2018-02-02;Guarulhos;99;1;Cartão de Débito;Meia;Osklen;5;15;Branco;99;Skipp;Murby;skipp9@hotmail.com;M;0;1966-07-07;7;3
+7;2018-02-02;Curitiba;48;3;Dinheiro;Bota;Reserva;115;267;Preto;48;Audre;Spere;audre4@globo.com;F;0;1985-09-03;9;1
+9;2018-02-02;Belo Horizonte;80;1;Cartão de Débito;Sapato;Reserva;73;191;Vermelho;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+2;2018-02-02;Belo Horizonte;40;3;Boleto;Casaco;Reserva;77;207;Vermelho;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+12;2018-02-02;Rio de Janeiro;68;1;Cartão de Crédito;Camiseta;Hering;102;176;Azul;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+2;2018-02-02;Nova Iguaçu;27;4;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;27;Kip;Berggren;kip4@hotmail.com;F;4;1983-01-28;1;4
+7;2018-02-02;Rio de Janeiro;21;1;Boleto;Bota;Reserva;115;267;Preto;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+1;2018-02-17;Rio Grande do Sul;24;1;Dinheiro;Camisa;Reserva;59;143;Verde;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+28;2018-02-18;Brasília;65;4;Cartão de Crédito;Camisa;Reserva;72;110;Branco;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+18;2018-02-19;Nova Iguaçu;52;1;Boleto;Sapato;Hering;69;266;Vermelho;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+4;2018-02-20;Rio de Janeiro;92;1;Boleto;Sandália;Reserva;123;183;Verde;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+3;2018-02-21;Rio de Janeiro;55;5;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+7;2018-02-22;Rio de Janeiro;31;1;Dinheiro;Bota;Reserva;115;267;Preto;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+26;2018-02-23;São Paulo;9;1;Cartão de Débito;Chinelo;Osklen;47;75;Vermelho;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+3;2018-02-24;Brasília;55;1;Dinheiro;Camiseta;Reserva;72;110;Laranja;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+20;2018-02-25;Belo Horizonte;40;5;Dinheiro;Casaco;Osklen;22;68;Preto;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+11;2018-02-26;Brasília;41;2;Boleto;Casaco;Hering;77;154;Azul;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+19;2018-02-27;Belo Horizonte;13;5;Boleto;Camisa;Osklen;152;277;Verde;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+26;2018-02-28;Nova Iguaçu;83;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+25;2018-03-01;Brasília;26;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+21;2018-03-02;Brasília;16;1;Boleto;Camiseta;Osklen;95;288;Laranja;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+9;2018-03-03;São Paulo;67;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+10;2018-03-04;São Paulo;25;1;Cartão de Crédito;Camisa;Hering;152;220;Azul;25;Steve;Clouter;steve6@gmail.com;M;0;1971-10-29;10;4
+14;2018-03-05;Guarulhos;98;2;Dinheiro;Boné;Hering;129;281;Verde;98;Greg;Merwe;greg3@uol.com;M;0;1949-03-05;3;5
+5;2018-03-06;Guarulhos;92;1;Cartão de Débito;Boné;Reserva;92;279;Preto;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+18;2018-03-07;Curitiba;82;1;Dinheiro;Sapato;Hering;69;266;Vermelho;82;Hadrian;Kervin;hadrian6@uol.com;M;0;1985-01-10;1;3
+2;2018-03-08;Rio Grande do Sul;32;1;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+27;2018-03-09;Curitiba;46;5;Cartão de Crédito;Sapato;Osklen;40;95;Branco;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+21;2018-03-10;Belo Horizonte;89;1;Dinheiro;Camiseta;Osklen;95;288;Laranja;89;Anne;Huerta;anne1@uol.com;F;1;1940-08-17;8;5
+9;2018-03-11;Belo Horizonte;28;4;Boleto;Sapato;Reserva;73;191;Vermelho;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+23;2018-03-12;São Paulo;31;4;Dinheiro;Boné;Osklen;72;108;Laranja;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+30;2018-03-13;Guarulhos;90;4;Cartão de Débito;Camisa;Hering;95;288;Branco;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+11;2018-03-14;Nova Iguaçu;66;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+28;2018-03-15;Rio de Janeiro;96;4;Cartão de Crédito;Camisa;Reserva;72;110;Branco;96;Konstantine;Drewett;konstantine1@globo.com;M;0;1986-04-18;4;4
+7;2018-03-16;Curitiba;55;3;Boleto;Bota;Reserva;115;267;Preto;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+24;2018-03-17;Curitiba;39;1;Boleto;Meia;Osklen;5;15;Branco;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+26;2018-03-18;Rio de Janeiro;64;1;Cartão de Débito;Chinelo;Osklen;47;75;Vermelho;64;West;Dauby;west3@gmail.com;M;0;1967-01-23;1;0
+17;2018-03-19;Brasília;12;2;Boleto;Chinelo;Hering;28;43;Verde;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+24;2018-03-20;Rio de Janeiro;79;5;Cartão de Crédito;Meia;Osklen;5;15;Branco;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+25;2018-03-21;Brasília;5;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+11;2018-03-22;Belo Horizonte;49;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;49;Mitzi;Diehn;mitzi1@globo.com;F;4;1942-08-22;8;5
+27;2018-03-23;Rio Grande do Sul;54;3;Dinheiro;Sapato;Osklen;40;95;Branco;54;Theodor;Melmoth;theodor6@yahoo.com;M;0;1986-01-02;1;3
+29;2018-03-24;Brasília;45;2;Boleto;Camisa;Osklen;102;176;Branco;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+7;2018-03-25;Belo Horizonte;29;1;Dinheiro;Bota;Reserva;115;267;Preto;29;Sabine;Kingwell;sabine9@yahoo.com;F;3;1987-01-03;1;5
+6;2018-03-26;Brasília;46;1;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+8;2018-03-27;Rio Grande do Sul;28;3;Boleto;Chinelo;Reserva;62;97;Laranja;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+2;2018-03-28;Nova Iguaçu;73;1;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+5;2018-03-29;Brasília;34;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;34;Kayle;Anthonsen;kayle6@hotmail.com;F;0;1963-05-10;5;4
+21;2018-03-30;Curitiba;6;5;Dinheiro;Camiseta;Osklen;95;288;Laranja;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+20;2018-03-31;Belo Horizonte;16;1;Boleto;Casaco;Osklen;22;68;Preto;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+8;2018-04-01;Rio de Janeiro;7;5;Cartão de Crédito;Chinelo;Reserva;62;97;Laranja;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+18;2018-04-02;Belo Horizonte;91;1;Cartão de Débito;Sapato;Hering;69;266;Vermelho;91;Nick;Jery;nick1@hotmail.com;M;1;1944-07-15;7;5
+16;2018-04-03;São Paulo;80;5;Boleto;Bota;Hering;56;106;Vermelho;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+13;2018-04-04;Nova Iguaçu;80;5;Cartão de Crédito;Sandália;Hering;136;283;Azul;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+13;2018-04-05;Rio Grande do Sul;16;3;Boleto;Sandália;Hering;136;283;Azul;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+19;2018-04-06;Rio de Janeiro;71;2;Cartão de Crédito;Camisa;Osklen;152;277;Verde;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+7;2018-04-07;Belo Horizonte;46;1;Cartão de Crédito;Bota;Reserva;115;267;Preto;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+3;2018-04-08;Nova Iguaçu;8;4;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+12;2018-04-09;Rio de Janeiro;10;5;Cartão de Crédito;Camiseta;Hering;102;176;Azul;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+4;2018-04-07;Nova Iguaçu;39;3;Boleto;Sandália;Reserva;123;183;Verde;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+15;2018-04-11;Nova Iguaçu;38;1;Boleto;Meia;Hering;12;30;Preto;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+14;2018-04-12;São Paulo;86;1;Dinheiro;Boné;Hering;129;281;Verde;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+12;2018-04-13;Belo Horizonte;66;1;Dinheiro;Camiseta;Hering;102;176;Azul;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+6;2018-04-14;Rio Grande do Sul;40;5;Cartão de Débito;Meia;Reserva;23;40;Vermelho;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+18;2018-04-15;São Paulo;51;3;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+14;2018-04-16;Nova Iguaçu;99;3;Cartão de Crédito;Boné;Hering;129;281;Verde;99;Skipp;Murby;skipp9@hotmail.com;M;0;1966-07-07;7;3
+22;2018-04-17;Belo Horizonte;24;3;Cartão de Débito;Sandália;Osklen;104;273;Azul;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+15;2018-04-18;São Paulo;54;5;Cartão de Crédito;Meia;Hering;12;30;Preto;54;Theodor;Melmoth;theodor6@yahoo.com;M;0;1986-01-02;1;3
+4;2018-04-19;Rio de Janeiro;9;1;Cartão de Débito;Sandália;Reserva;123;183;Verde;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+17;2018-04-20;Nova Iguaçu;12;1;Cartão de Crédito;Chinelo;Hering;28;43;Verde;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+29;2018-04-21;Nova Iguaçu;47;1;Cartão de Débito;Camisa;Osklen;102;176;Branco;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+3;2018-04-22;Belo Horizonte;51;1;Cartão de Débito;Camiseta;Reserva;72;110;Laranja;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+22;2018-04-23;Brasília;62;1;Boleto;Sandália;Osklen;104;273;Azul;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+28;2018-04-24;Belo Horizonte;68;3;Boleto;Camisa;Reserva;72;110;Branco;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+14;2018-04-25;Rio Grande do Sul;10;5;Cartão de Crédito;Boné;Hering;129;281;Verde;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+8;2018-04-26;São Paulo;35;1;Boleto;Chinelo;Reserva;62;97;Laranja;35;Derwin;Lacroux;derwin5@gmail.com;M;0;1987-09-10;9;3
+21;2018-04-27;Curitiba;90;1;Cartão de Débito;Camiseta;Osklen;95;288;Laranja;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+25;2018-04-28;Nova Iguaçu;4;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+20;2018-04-29;São Paulo;70;1;Dinheiro;Casaco;Osklen;22;68;Preto;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+5;2018-04-30;Guarulhos;71;1;Dinheiro;Boné;Reserva;92;279;Preto;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+22;2018-05-01;São Paulo;72;3;Boleto;Sandália;Osklen;104;273;Azul;72;Nancee;Rickcord;nancee8@hotmail.com;F;0;2000-10-02;10;0
+12;2018-05-02;Brasília;28;2;Cartão de Débito;Camiseta;Hering;102;176;Azul;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+7;2018-05-03;Guarulhos;33;5;Cartão de Débito;Bota;Reserva;115;267;Preto;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+10;2018-05-04;São Paulo;77;1;Cartão de Crédito;Camisa;Hering;152;220;Azul;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+28;2018-05-05;Curitiba;10;3;Cartão de Crédito;Camisa;Reserva;72;110;Branco;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+1;2018-05-05;Rio Grande do Sul;93;3;Cartão de Crédito;Camisa;Reserva;59;143;Verde;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+1;2018-05-05;Rio de Janeiro;18;3;Cartão de Crédito;Camisa;Reserva;59;143;Verde;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+16;2018-05-05;Guarulhos;73;4;Cartão de Crédito;Bota;Hering;56;106;Vermelho;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+14;2018-05-05;Curitiba;76;2;Cartão de Débito;Boné;Hering;129;281;Verde;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+11;2018-05-05;Guarulhos;55;1;Cartão de Débito;Casaco;Hering;77;154;Azul;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+4;2018-05-05;Brasília;18;1;Cartão de Crédito;Sandália;Reserva;123;183;Verde;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+23;2018-05-05;São Paulo;57;4;Cartão de Crédito;Boné;Osklen;72;108;Laranja;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+28;2018-05-05;Belo Horizonte;10;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+21;2018-05-05;Belo Horizonte;79;1;Cartão de Débito;Camiseta;Osklen;95;288;Laranja;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+15;2018-05-05;Guarulhos;71;1;Dinheiro;Meia;Hering;12;30;Preto;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+11;2018-05-05;São Paulo;33;1;Dinheiro;Casaco;Hering;77;154;Azul;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+30;2018-05-05;Rio de Janeiro;50;1;Cartão de Crédito;Camisa;Hering;95;288;Branco;50;Erie;Gon;erie6@gmail.com;M;0;1975-07-18;7;4
+2;2018-05-05;Rio Grande do Sul;49;5;Dinheiro;Casaco;Reserva;77;207;Vermelho;49;Mitzi;Diehn;mitzi1@globo.com;F;4;1942-08-22;8;5
+3;2018-05-05;Belo Horizonte;69;1;Boleto;Camiseta;Reserva;72;110;Laranja;69;Chilton;Simkovich;chilton9@globo.com;M;4;1980-12-22;12;0
+3;2018-05-05;Guarulhos;52;1;Cartão de Débito;Camiseta;Reserva;72;110;Laranja;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+26;2018-05-05;Nova Iguaçu;67;1;Dinheiro;Chinelo;Osklen;47;75;Vermelho;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+20;2018-05-05;Nova Iguaçu;95;1;Dinheiro;Casaco;Osklen;22;68;Preto;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+22;2018-05-05;Nova Iguaçu;24;1;Cartão de Crédito;Sandália;Osklen;104;273;Azul;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+13;2018-05-05;Curitiba;97;1;Dinheiro;Sandália;Hering;136;283;Azul;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+29;2018-05-05;Brasília;77;5;Cartão de Débito;Camisa;Osklen;102;176;Branco;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+16;2018-05-05;Belo Horizonte;58;1;Boleto;Bota;Hering;56;106;Vermelho;58;Pamella;Paquet;pamella3@uol.com;F;2;1995-11-09;11;3
+11;2018-05-05;Nova Iguaçu;3;4;Cartão de Crédito;Casaco;Hering;77;154;Azul;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+9;2018-05-05;São Paulo;12;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+20;2018-05-05;São Paulo;16;1;Cartão de Crédito;Casaco;Osklen;22;68;Preto;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+8;2018-05-05;Brasília;51;1;Cartão de Crédito;Chinelo;Reserva;62;97;Laranja;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+14;2018-05-05;Belo Horizonte;25;1;Boleto;Boné;Hering;129;281;Verde;25;Steve;Clouter;steve6@gmail.com;M;0;1971-10-29;10;4
+6;2018-05-05;Nova Iguaçu;90;5;Boleto;Meia;Reserva;23;40;Vermelho;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+8;2018-05-05;Guarulhos;10;1;Cartão de Crédito;Chinelo;Reserva;62;97;Laranja;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+16;2018-05-05;Nova Iguaçu;86;1;Cartão de Crédito;Bota;Hering;56;106;Vermelho;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+24;2018-06-04;São Paulo;34;3;Boleto;Meia;Osklen;5;15;Branco;34;Kayle;Anthonsen;kayle6@hotmail.com;F;0;1963-05-10;5;4
+19;2018-06-05;Belo Horizonte;18;1;Boleto;Camisa;Osklen;152;277;Verde;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+2;2018-06-06;Rio de Janeiro;52;4;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+29;2018-06-07;Brasília;2;1;Dinheiro;Camisa;Osklen;102;176;Branco;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+29;2018-06-08;Curitiba;31;5;Cartão de Débito;Camisa;Osklen;102;176;Branco;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+26;2018-06-09;São Paulo;20;3;Dinheiro;Chinelo;Osklen;47;75;Vermelho;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+8;2018-06-10;Rio de Janeiro;61;3;Dinheiro;Chinelo;Reserva;62;97;Laranja;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+21;2018-06-11;Guarulhos;20;3;Dinheiro;Camiseta;Osklen;95;288;Laranja;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+13;2018-06-12;Belo Horizonte;48;1;Cartão de Crédito;Sandália;Hering;136;283;Azul;48;Audre;Spere;audre4@globo.com;F;0;1985-09-03;9;1
+3;2018-06-13;Rio Grande do Sul;2;1;Boleto;Camiseta;Reserva;72;110;Laranja;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+21;2018-06-14;Nova Iguaçu;95;1;Dinheiro;Camiseta;Osklen;95;288;Laranja;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+30;2018-06-15;Curitiba;64;1;Cartão de Débito;Camisa;Hering;95;288;Branco;64;West;Dauby;west3@gmail.com;M;0;1967-01-23;1;0
+13;2018-06-16;Rio Grande do Sul;28;4;Boleto;Sandália;Hering;136;283;Azul;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+3;2018-06-17;Belo Horizonte;16;1;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+25;2018-06-18;Brasília;36;3;Boleto;Bota;Osklen;43;104;Azul;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+24;2018-06-19;Curitiba;3;1;Dinheiro;Meia;Osklen;5;15;Branco;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+27;2018-06-20;São Paulo;68;1;Dinheiro;Sapato;Osklen;40;95;Branco;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+12;2018-06-21;Nova Iguaçu;24;1;Cartão de Crédito;Camiseta;Hering;102;176;Azul;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+28;2018-06-22;Brasília;100;1;Dinheiro;Camisa;Reserva;72;110;Branco;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+17;2018-06-23;Nova Iguaçu;54;1;Boleto;Chinelo;Hering;28;43;Verde;54;Theodor;Melmoth;theodor6@yahoo.com;M;0;1986-01-02;1;3
+21;2018-06-24;Belo Horizonte;38;2;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+12;2018-06-25;Nova Iguaçu;23;1;Dinheiro;Camiseta;Hering;102;176;Azul;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+19;2018-06-26;Curitiba;69;1;Cartão de Débito;Camisa;Osklen;152;277;Verde;69;Chilton;Simkovich;chilton9@globo.com;M;4;1980-12-22;12;0
+18;2018-06-07;Guarulhos;78;1;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;78;Immanuel;Wilmot;immanuel6@uol.com;M;0;1967-02-27;2;0
+8;2018-06-08;São Paulo;31;1;Cartão de Débito;Chinelo;Reserva;62;97;Laranja;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+29;2018-06-09;Rio de Janeiro;59;1;Cartão de Crédito;Camisa;Osklen;102;176;Branco;59;Yankee;Hovie;yankee9@hotmail.com;M;3;1976-06-07;6;0
+23;2018-06-10;Brasília;77;1;Cartão de Débito;Boné;Osklen;72;108;Laranja;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+6;2018-06-11;Guarulhos;8;3;Dinheiro;Meia;Reserva;23;40;Vermelho;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+21;2018-06-12;Guarulhos;31;3;Dinheiro;Camiseta;Osklen;95;288;Laranja;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+8;2018-06-13;Brasília;90;1;Cartão de Débito;Chinelo;Reserva;62;97;Laranja;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+9;2018-06-14;Curitiba;57;1;Cartão de Débito;Sapato;Reserva;73;191;Vermelho;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+23;2018-06-15;Rio Grande do Sul;62;5;Cartão de Crédito;Boné;Osklen;72;108;Laranja;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+12;2018-06-16;Curitiba;28;1;Cartão de Crédito;Camiseta;Hering;102;176;Azul;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+29;2018-06-17;Guarulhos;17;3;Cartão de Crédito;Camisa;Osklen;102;176;Branco;17;Colan;Shopcott;colan1@hotmail.com;M;0;1940-06-04;6;1
+22;2018-06-18;Nova Iguaçu;14;4;Dinheiro;Sandália;Osklen;104;273;Azul;14;Loree;Kubek;loree6@hotmail.com;F;2;1981-08-26;8;2
+12;2018-06-19;Brasília;82;2;Boleto;Camiseta;Hering;102;176;Azul;82;Hadrian;Kervin;hadrian6@uol.com;M;0;1985-01-10;1;3
+27;2018-07-10;Rio Grande do Sul;84;1;Cartão de Crédito;Sapato;Osklen;40;95;Branco;84;Alysia;Hopfner;alysia5@uol.com;F;0;1962-09-18;9;1
+30;2018-07-11;Nova Iguaçu;65;1;Cartão de Crédito;Camisa;Hering;95;288;Branco;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+10;2018-07-12;Guarulhos;97;1;Dinheiro;Camisa;Hering;152;220;Azul;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+15;2018-07-13;Curitiba;100;1;Boleto;Meia;Hering;12;30;Preto;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+29;2018-07-14;Curitiba;87;5;Cartão de Crédito;Camisa;Osklen;102;176;Branco;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+16;2018-07-15;Belo Horizonte;38;5;Dinheiro;Bota;Hering;56;106;Vermelho;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+18;2018-07-16;Rio de Janeiro;11;1;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+14;2018-07-16;Nova Iguaçu;52;1;Cartão de Crédito;Boné;Hering;129;281;Verde;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+26;2018-07-16;Nova Iguaçu;75;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;75;Ricky;Belsham;ricky7@gmail.com;F;0;1989-11-12;11;6
+28;2018-07-16;Belo Horizonte;94;3;Cartão de Crédito;Camisa;Reserva;72;110;Branco;94;Guillemette;Schimank;guillemette5@uol.com;F;0;1954-08-02;8;0
+30;2018-07-16;Rio de Janeiro;2;1;Cartão de Crédito;Camisa;Hering;95;288;Branco;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+3;2018-07-16;Curitiba;53;1;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;53;Dominic;Celloni;dominic10@gmail.com;M;0;1967-07-04;7;1
+8;2018-07-16;Guarulhos;33;1;Cartão de Crédito;Chinelo;Reserva;62;97;Laranja;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+6;2018-07-16;Rio Grande do Sul;44;4;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;44;Shandra;Brockelsby;shandra1@globo.com;F;0;1959-03-17;3;1
+23;2018-07-16;Nova Iguaçu;66;5;Boleto;Boné;Osklen;72;108;Laranja;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+21;2018-07-16;Rio de Janeiro;18;5;Dinheiro;Camiseta;Osklen;95;288;Laranja;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+9;2018-07-16;Brasília;43;5;Dinheiro;Sapato;Reserva;73;191;Vermelho;43;Missie;Ianne;missie2@hotmail.com;F;0;1984-03-15;3;3
+14;2018-07-16;Rio Grande do Sul;65;5;Cartão de Crédito;Boné;Hering;129;281;Verde;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+26;2018-07-16;Brasília;87;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+17;2018-07-16;Belo Horizonte;34;5;Cartão de Crédito;Chinelo;Hering;28;43;Verde;34;Kayle;Anthonsen;kayle6@hotmail.com;F;0;1963-05-10;5;4
+10;2018-07-16;Belo Horizonte;40;4;Dinheiro;Camisa;Hering;152;220;Azul;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+19;2018-07-16;Rio Grande do Sul;56;1;Cartão de Crédito;Camisa;Osklen;152;277;Verde;56;Ragnar;Crabtree;ragnar7@uol.com;M;1;1980-08-05;8;1
+15;2018-07-16;Brasília;88;4;Cartão de Crédito;Meia;Hering;12;30;Preto;88;Lancelot;Loffel;lancelot4@gmail.com;M;0;1966-08-06;8;5
+11;2018-07-16;Nova Iguaçu;67;1;Cartão de Débito;Casaco;Hering;77;154;Azul;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+25;2018-07-16;Guarulhos;93;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+5;2018-07-16;Curitiba;79;3;Cartão de Crédito;Boné;Reserva;92;279;Preto;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+19;2018-07-16;Nova Iguaçu;4;1;Cartão de Débito;Camisa;Osklen;152;277;Verde;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+2;2018-08-06;Brasília;53;1;Boleto;Casaco;Reserva;77;207;Vermelho;53;Dominic;Celloni;dominic10@gmail.com;M;0;1967-07-04;7;1
+14;2018-08-07;Nova Iguaçu;67;1;Cartão de Crédito;Boné;Hering;129;281;Verde;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+3;2018-08-08;Belo Horizonte;79;1;Cartão de Débito;Camiseta;Reserva;72;110;Laranja;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+11;2018-08-09;Guarulhos;81;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+25;2018-08-10;Brasília;65;1;Cartão de Débito;Bota;Osklen;43;104;Azul;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+2;2018-08-11;São Paulo;86;1;Boleto;Casaco;Reserva;77;207;Vermelho;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+3;2018-08-11;Brasília;52;1;Dinheiro;Camiseta;Reserva;72;110;Laranja;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+12;2018-08-11;Nova Iguaçu;95;1;Dinheiro;Camiseta;Hering;102;176;Azul;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+3;2018-08-11;Curitiba;9;4;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+12;2018-08-11;Nova Iguaçu;24;2;Cartão de Débito;Camiseta;Hering;102;176;Azul;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+8;2018-08-11;Nova Iguaçu;26;1;Cartão de Crédito;Chinelo;Reserva;62;97;Laranja;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+5;2018-08-11;São Paulo;57;1;Cartão de Débito;Boné;Reserva;92;279;Preto;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+18;2018-08-11;Curitiba;68;3;Cartão de Débito;Sapato;Hering;69;266;Vermelho;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+27;2018-08-11;São Paulo;45;4;Cartão de Crédito;Sapato;Osklen;40;95;Branco;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+3;2018-08-11;Rio Grande do Sul;53;2;Dinheiro;Camiseta;Reserva;72;110;Laranja;53;Dominic;Celloni;dominic10@gmail.com;M;0;1967-07-04;7;1
+29;2018-08-11;Brasília;36;2;Dinheiro;Camisa;Osklen;102;176;Branco;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+29;2018-08-11;Brasília;73;1;Boleto;Camisa;Osklen;102;176;Branco;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+16;2018-08-11;Rio de Janeiro;55;1;Boleto;Bota;Hering;56;106;Vermelho;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+17;2018-08-11;Nova Iguaçu;78;1;Dinheiro;Chinelo;Hering;28;43;Verde;78;Immanuel;Wilmot;immanuel6@uol.com;M;0;1967-02-27;2;0
+12;2018-08-11;Belo Horizonte;3;3;Boleto;Camiseta;Hering;102;176;Azul;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+9;2018-08-11;Rio Grande do Sul;45;2;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+3;2018-08-11;Belo Horizonte;64;1;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;64;West;Dauby;west3@gmail.com;M;0;1967-01-23;1;0
+28;2018-08-11;Guarulhos;39;1;Cartão de Débito;Camisa;Reserva;72;110;Branco;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+6;2018-08-11;Curitiba;73;3;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+1;2018-08-11;Belo Horizonte;48;1;Cartão de Crédito;Camisa;Reserva;59;143;Verde;48;Audre;Spere;audre4@globo.com;F;0;1985-09-03;9;1
+14;2018-08-11;São Paulo;9;3;Cartão de Débito;Boné;Hering;129;281;Verde;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+27;2018-08-11;São Paulo;71;4;Cartão de Crédito;Sapato;Osklen;40;95;Branco;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+29;2018-08-11;Rio de Janeiro;97;1;Boleto;Camisa;Osklen;102;176;Branco;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+6;2018-08-11;Belo Horizonte;41;1;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+12;2018-08-11;Nova Iguaçu;60;3;Boleto;Camiseta;Hering;102;176;Azul;60;Nonna;Salamon;nonna1@hotmail.com;F;3;1992-01-05;1;6
+26;2018-08-11;Brasília;8;2;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+9;2018-08-11;Belo Horizonte;44;1;Dinheiro;Sapato;Reserva;73;191;Vermelho;44;Shandra;Brockelsby;shandra1@globo.com;F;0;1959-03-17;3;1
+11;2018-09-07;Rio Grande do Sul;95;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+23;2018-09-08;São Paulo;52;5;Cartão de Débito;Boné;Osklen;72;108;Laranja;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+18;2018-09-09;Belo Horizonte;91;5;Dinheiro;Sapato;Hering;69;266;Vermelho;91;Nick;Jery;nick1@hotmail.com;M;1;1944-07-15;7;5
+11;2018-09-10;Brasília;32;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+24;2018-09-11;Rio de Janeiro;93;1;Cartão de Crédito;Meia;Osklen;5;15;Branco;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+5;2018-09-12;Brasília;28;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+29;2018-09-13;Rio de Janeiro;8;1;Dinheiro;Camisa;Osklen;102;176;Branco;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+27;2018-09-14;Nova Iguaçu;57;4;Cartão de Débito;Sapato;Osklen;40;95;Branco;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+2;2018-09-15;Rio de Janeiro;23;1;Dinheiro;Casaco;Reserva;77;207;Vermelho;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+16;2018-09-15;Belo Horizonte;54;1;Cartão de Crédito;Bota;Hering;56;106;Vermelho;54;Theodor;Melmoth;theodor6@yahoo.com;M;0;1986-01-02;1;3
+13;2018-09-15;Guarulhos;76;1;Cartão de Crédito;Sandália;Hering;136;283;Azul;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+22;2018-09-15;Curitiba;87;1;Dinheiro;Sandália;Osklen;104;273;Azul;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+17;2018-09-15;Rio Grande do Sul;25;1;Dinheiro;Chinelo;Hering;28;43;Verde;25;Steve;Clouter;steve6@gmail.com;M;0;1971-10-29;10;4
+29;2018-09-15;Rio Grande do Sul;11;5;Cartão de Débito;Camisa;Osklen;102;176;Branco;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+12;2018-09-15;Nova Iguaçu;21;1;Boleto;Camiseta;Hering;102;176;Azul;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+14;2018-09-15;Rio Grande do Sul;91;1;Cartão de Crédito;Boné;Hering;129;281;Verde;91;Nick;Jery;nick1@hotmail.com;M;1;1944-07-15;7;5
+26;2018-09-15;Curitiba;83;5;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+20;2018-09-15;Brasília;73;1;Boleto;Casaco;Osklen;22;68;Preto;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+30;2018-09-15;Brasília;12;1;Cartão de Crédito;Camisa;Hering;95;288;Branco;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+26;2018-09-15;São Paulo;39;2;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+23;2018-09-15;Curitiba;5;1;Boleto;Boné;Osklen;72;108;Laranja;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+22;2018-09-15;Rio de Janeiro;33;1;Dinheiro;Sandália;Osklen;104;273;Azul;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+18;2018-09-15;São Paulo;40;3;Boleto;Sapato;Hering;69;266;Vermelho;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+12;2018-09-15;Brasília;77;3;Boleto;Camiseta;Hering;102;176;Azul;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+28;2018-09-15;São Paulo;59;4;Boleto;Camisa;Reserva;72;110;Branco;59;Yankee;Hovie;yankee9@hotmail.com;M;3;1976-06-07;6;0
+4;2018-09-15;Curitiba;57;1;Dinheiro;Sandália;Reserva;123;183;Verde;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+9;2018-09-15;Rio de Janeiro;41;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+10;2018-09-15;Rio Grande do Sul;35;3;Cartão de Crédito;Camisa;Hering;152;220;Azul;35;Derwin;Lacroux;derwin5@gmail.com;M;0;1987-09-10;9;3
+25;2018-09-15;Belo Horizonte;73;4;Dinheiro;Bota;Osklen;43;104;Azul;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+29;2018-09-15;Rio Grande do Sul;14;1;Cartão de Débito;Camisa;Osklen;102;176;Branco;14;Loree;Kubek;loree6@hotmail.com;F;2;1981-08-26;8;2
+12;2018-09-15;Guarulhos;28;1;Dinheiro;Camiseta;Hering;102;176;Azul;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+10;2018-09-15;São Paulo;12;3;Cartão de Crédito;Camisa;Hering;152;220;Azul;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+15;2018-09-15;Rio de Janeiro;81;1;Boleto;Meia;Hering;12;30;Preto;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+26;2018-09-15;Curitiba;17;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;17;Colan;Shopcott;colan1@hotmail.com;M;0;1940-06-04;6;1
+17;2018-10-11;São Paulo;14;1;Boleto;Chinelo;Hering;28;43;Verde;14;Loree;Kubek;loree6@hotmail.com;F;2;1981-08-26;8;2
+13;2018-10-12;Curitiba;8;5;Cartão de Débito;Sandália;Hering;136;283;Azul;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+21;2018-10-13;Guarulhos;31;2;Cartão de Débito;Camiseta;Osklen;95;288;Laranja;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+28;2018-10-14;Guarulhos;56;1;Dinheiro;Camisa;Reserva;72;110;Branco;56;Ragnar;Crabtree;ragnar7@uol.com;M;1;1980-08-05;8;1
+10;2018-10-15;Guarulhos;46;5;Dinheiro;Camisa;Hering;152;220;Azul;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+20;2018-10-16;Brasília;39;1;Dinheiro;Casaco;Osklen;22;68;Preto;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+9;2018-10-17;Rio de Janeiro;81;4;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+3;2018-10-18;Nova Iguaçu;84;2;Boleto;Camiseta;Reserva;72;110;Laranja;84;Alysia;Hopfner;alysia5@uol.com;F;0;1962-09-18;9;1
+10;2018-10-19;Brasília;20;5;Cartão de Débito;Camisa;Hering;152;220;Azul;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+21;2018-10-20;Rio Grande do Sul;52;5;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+23;2018-10-21;Guarulhos;40;4;Boleto;Boné;Osklen;72;108;Laranja;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+17;2018-10-22;Brasília;31;1;Dinheiro;Chinelo;Hering;28;43;Verde;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+3;2018-10-23;Belo Horizonte;80;3;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+17;2018-10-24;Belo Horizonte;18;4;Cartão de Crédito;Chinelo;Hering;28;43;Verde;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+6;2018-10-25;Rio de Janeiro;29;1;Boleto;Meia;Reserva;23;40;Vermelho;29;Sabine;Kingwell;sabine9@yahoo.com;F;3;1987-01-03;1;5
+12;2018-10-25;Rio Grande do Sul;61;5;Cartão de Débito;Camiseta;Hering;102;176;Azul;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+5;2018-10-25;Belo Horizonte;73;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+3;2018-10-25;Belo Horizonte;39;4;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+12;2018-10-25;São Paulo;61;1;Dinheiro;Camiseta;Hering;102;176;Azul;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+16;2018-10-25;Rio Grande do Sul;77;4;Cartão de Crédito;Bota;Hering;56;106;Vermelho;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+19;2018-10-25;São Paulo;24;5;Cartão de Crédito;Camisa;Osklen;152;277;Verde;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+23;2018-10-25;Belo Horizonte;4;2;Dinheiro;Boné;Osklen;72;108;Laranja;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+10;2018-10-25;Nova Iguaçu;19;1;Boleto;Camisa;Hering;152;220;Azul;19;Lizbeth;Kinkaid;lizbeth1@yahoo.com;F;0;1978-04-12;4;2
+19;2018-10-25;Rio de Janeiro;77;1;Dinheiro;Camisa;Osklen;152;277;Verde;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+2;2018-10-25;Rio Grande do Sul;46;1;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+25;2018-10-25;Curitiba;5;1;Cartão de Débito;Bota;Osklen;43;104;Azul;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+2;2018-10-25;Curitiba;39;1;Dinheiro;Casaco;Reserva;77;207;Vermelho;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+28;2018-10-25;Guarulhos;45;3;Cartão de Crédito;Camisa;Reserva;72;110;Branco;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+21;2018-10-25;São Paulo;82;1;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;82;Hadrian;Kervin;hadrian6@uol.com;M;0;1985-01-10;1;3
+3;2018-10-25;Nova Iguaçu;79;5;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+25;2018-11-10;Rio Grande do Sul;22;3;Dinheiro;Bota;Osklen;43;104;Azul;22;Meade;Lickess;meade8@uol.com;F;3;1957-03-22;3;4
+30;2018-11-11;Rio Grande do Sul;94;1;Cartão de Débito;Camisa;Hering;95;288;Branco;94;Guillemette;Schimank;guillemette5@uol.com;F;0;1954-08-02;8;0
+5;2018-11-12;Rio de Janeiro;90;2;Cartão de Débito;Boné;Reserva;92;279;Preto;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+28;2018-11-13;Guarulhos;71;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+9;2018-11-13;Guarulhos;97;3;Dinheiro;Sapato;Reserva;73;191;Vermelho;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+6;2018-11-13;Rio Grande do Sul;5;3;Boleto;Meia;Reserva;23;40;Vermelho;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+26;2018-11-13;Nova Iguaçu;51;1;Cartão de Débito;Chinelo;Osklen;47;75;Vermelho;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+24;2018-11-13;Guarulhos;6;2;Cartão de Débito;Meia;Osklen;5;15;Branco;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+6;2018-11-13;São Paulo;95;1;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+13;2018-11-13;Curitiba;72;4;Cartão de Crédito;Sandália;Hering;136;283;Azul;72;Nancee;Rickcord;nancee8@hotmail.com;F;0;2000-10-02;10;0
+16;2018-11-13;Rio de Janeiro;89;4;Cartão de Débito;Bota;Hering;56;106;Vermelho;89;Anne;Huerta;anne1@uol.com;F;1;1940-08-17;8;5
+27;2018-11-13;Brasília;70;3;Boleto;Sapato;Osklen;40;95;Branco;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+1;2018-11-13;Brasília;30;1;Cartão de Crédito;Camisa;Reserva;59;143;Verde;30;Lanna;Cholerton;lanna5@yahoo.com;F;0;1946-12-05;12;3
+28;2018-11-13;Rio Grande do Sul;21;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+30;2018-11-13;Curitiba;63;1;Cartão de Débito;Camisa;Hering;95;288;Branco;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+21;2018-11-13;Curitiba;18;2;Dinheiro;Camiseta;Osklen;95;288;Laranja;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+5;2018-11-13;Brasília;89;1;Dinheiro;Boné;Reserva;92;279;Preto;89;Anne;Huerta;anne1@uol.com;F;1;1940-08-17;8;5
+2;2018-11-13;Rio Grande do Sul;71;3;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+27;2018-11-13;Rio de Janeiro;11;1;Cartão de Crédito;Sapato;Osklen;40;95;Branco;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+2;2018-11-29;Curitiba;26;1;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+10;2018-11-30;Nova Iguaçu;97;3;Cartão de Crédito;Camisa;Hering;152;220;Azul;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+7;2018-11-30;Brasília;36;1;Cartão de Débito;Bota;Reserva;115;267;Preto;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+15;2018-11-30;Brasília;21;1;Dinheiro;Meia;Hering;12;30;Preto;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+25;2018-11-30;Rio de Janeiro;63;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+5;2018-11-30;São Paulo;13;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+5;2018-11-30;Rio de Janeiro;81;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+22;2018-11-30;Rio de Janeiro;9;1;Cartão de Débito;Sandália;Osklen;104;273;Azul;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+14;2018-11-30;Belo Horizonte;89;3;Dinheiro;Boné;Hering;129;281;Verde;89;Anne;Huerta;anne1@uol.com;F;1;1940-08-17;8;5
+7;2018-11-30;Rio de Janeiro;53;2;Dinheiro;Bota;Reserva;115;267;Preto;53;Dominic;Celloni;dominic10@gmail.com;M;0;1967-07-04;7;1
+19;2018-11-30;Nova Iguaçu;91;1;Cartão de Débito;Camisa;Osklen;152;277;Verde;91;Nick;Jery;nick1@hotmail.com;M;1;1944-07-15;7;5
+1;2018-12-10;São Paulo;42;1;Cartão de Crédito;Camisa;Reserva;59;143;Verde;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+15;2018-12-11;Rio de Janeiro;13;1;Cartão de Débito;Meia;Hering;12;30;Preto;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+21;2018-12-12;São Paulo;27;3;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;27;Kip;Berggren;kip4@hotmail.com;F;4;1983-01-28;1;4
+11;2018-12-13;Rio de Janeiro;97;2;Boleto;Casaco;Hering;77;154;Azul;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+21;2018-12-14;Brasília;37;1;Boleto;Camiseta;Osklen;95;288;Laranja;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+19;2018-12-15;Nova Iguaçu;39;2;Cartão de Crédito;Camisa;Osklen;152;277;Verde;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+4;2018-12-16;Rio de Janeiro;68;1;Dinheiro;Sandália;Reserva;123;183;Verde;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+20;2018-12-17;São Paulo;76;1;Boleto;Casaco;Osklen;22;68;Preto;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+24;2018-12-18;Guarulhos;85;3;Cartão de Crédito;Meia;Osklen;5;15;Branco;85;Denise;Curteis;denise6@uol.com;F;0;1997-01-15;1;2
+5;2018-12-19;Rio de Janeiro;54;1;Dinheiro;Boné;Reserva;92;279;Preto;54;Theodor;Melmoth;theodor6@yahoo.com;M;0;1986-01-02;1;3
+9;2018-12-20;Guarulhos;10;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+17;2018-12-21;Guarulhos;21;1;Boleto;Chinelo;Hering;28;43;Verde;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+13;2018-12-22;Guarulhos;47;1;Dinheiro;Sandália;Hering;136;283;Azul;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+20;2018-12-23;Belo Horizonte;100;1;Dinheiro;Casaco;Osklen;22;68;Preto;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+5;2018-12-24;Belo Horizonte;68;1;Dinheiro;Boné;Reserva;92;279;Preto;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+19;2018-12-25;São Paulo;22;4;Cartão de Débito;Camisa;Osklen;152;277;Verde;22;Meade;Lickess;meade8@uol.com;F;3;1957-03-22;3;4
+26;2018-12-26;Guarulhos;59;1;Boleto;Chinelo;Osklen;47;75;Vermelho;59;Yankee;Hovie;yankee9@hotmail.com;M;3;1976-06-07;6;0
+26;2018-12-27;Rio Grande do Sul;88;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;88;Lancelot;Loffel;lancelot4@gmail.com;M;0;1966-08-06;8;5
+15;2018-12-26;Belo Horizonte;76;1;Cartão de Crédito;Meia;Hering;12;30;Preto;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+21;2018-12-27;Belo Horizonte;88;5;Dinheiro;Camiseta;Osklen;95;288;Laranja;88;Lancelot;Loffel;lancelot4@gmail.com;M;0;1966-08-06;8;5
+27;2018-12-26;Rio Grande do Sul;62;5;Cartão de Débito;Sapato;Osklen;40;95;Branco;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+15;2018-12-27;Rio de Janeiro;40;1;Dinheiro;Meia;Hering;12;30;Preto;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+26;2018-12-26;Belo Horizonte;70;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+17;2018-12-27;Nova Iguaçu;22;1;Cartão de Débito;Chinelo;Hering;28;43;Verde;22;Meade;Lickess;meade8@uol.com;F;3;1957-03-22;3;4
+18;2018-12-26;Brasília;73;1;Cartão de Débito;Sapato;Hering;69;266;Vermelho;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+22;2018-12-27;Belo Horizonte;26;5;Boleto;Sandália;Osklen;104;273;Azul;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+26;2018-12-26;Brasília;89;3;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;89;Anne;Huerta;anne1@uol.com;F;1;1940-08-17;8;5
+8;2018-12-27;Guarulhos;74;4;Dinheiro;Chinelo;Reserva;62;97;Laranja;74;Kasper;Frusher;kasper2@globo.com;M;0;1969-01-06;1;0
+5;2018-12-26;São Paulo;26;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+17;2018-12-27;Rio Grande do Sul;22;3;Boleto;Chinelo;Hering;28;43;Verde;22;Meade;Lickess;meade8@uol.com;F;3;1957-03-22;3;4
+3;2019-01-09;Brasília;31;4;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+15;2019-01-10;Rio Grande do Sul;83;1;Dinheiro;Meia;Hering;12;30;Preto;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+24;2019-01-11;Guarulhos;45;1;Cartão de Crédito;Meia;Osklen;5;15;Branco;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+11;2019-01-12;São Paulo;33;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+6;2019-01-13;Curitiba;97;2;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+21;2019-01-14;Nova Iguaçu;22;1;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;22;Meade;Lickess;meade8@uol.com;F;3;1957-03-22;3;4
+8;2019-01-15;São Paulo;57;1;Cartão de Débito;Chinelo;Reserva;62;97;Laranja;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+5;2019-01-16;Rio Grande do Sul;9;3;Cartão de Débito;Boné;Reserva;92;279;Preto;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+26;2019-01-17;Rio Grande do Sul;39;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+27;2019-01-18;Nova Iguaçu;10;1;Cartão de Débito;Sapato;Osklen;40;95;Branco;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+3;2019-01-19;Rio de Janeiro;49;5;Boleto;Camiseta;Reserva;72;110;Laranja;49;Mitzi;Diehn;mitzi1@globo.com;F;4;1942-08-22;8;5
+3;2019-01-20;Belo Horizonte;40;1;Cartão de Débito;Camiseta;Reserva;72;110;Laranja;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+27;2019-01-21;São Paulo;71;4;Boleto;Sapato;Osklen;40;95;Branco;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+18;2019-01-22;Brasília;70;1;Boleto;Sapato;Hering;69;266;Vermelho;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+28;2019-01-23;Brasília;86;1;Boleto;Camisa;Reserva;72;110;Branco;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+18;2019-01-24;Rio de Janeiro;67;3;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+7;2019-01-25;Nova Iguaçu;66;1;Cartão de Débito;Bota;Reserva;115;267;Preto;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+15;2019-01-26;Curitiba;38;1;Cartão de Crédito;Meia;Hering;12;30;Preto;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+24;2019-01-27;Curitiba;57;3;Boleto;Meia;Osklen;5;15;Branco;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+23;2019-01-28;Brasília;24;1;Cartão de Débito;Boné;Osklen;72;108;Laranja;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+12;2019-01-29;Brasília;24;1;Cartão de Débito;Camiseta;Hering;102;176;Azul;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+19;2019-01-30;Curitiba;9;1;Cartão de Débito;Camisa;Osklen;152;277;Verde;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+4;2019-01-31;Curitiba;42;1;Boleto;Sandália;Reserva;123;183;Verde;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+16;2019-01-31;Guarulhos;100;1;Cartão de Crédito;Bota;Hering;56;106;Vermelho;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+9;2019-01-31;São Paulo;15;1;Dinheiro;Sapato;Reserva;73;191;Vermelho;15;Amandie;O'Towey;amandie6@gmail.com;F;3;1947-04-08;4;1
+23;2019-01-31;São Paulo;69;1;Cartão de Débito;Boné;Osklen;72;108;Laranja;69;Chilton;Simkovich;chilton9@globo.com;M;4;1980-12-22;12;0
+6;2019-01-31;São Paulo;99;1;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;99;Skipp;Murby;skipp9@hotmail.com;M;0;1966-07-07;7;3
+26;2019-01-31;Guarulhos;15;2;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;15;Amandie;O'Towey;amandie6@gmail.com;F;3;1947-04-08;4;1
+10;2019-01-31;Curitiba;57;2;Dinheiro;Camisa;Hering;152;220;Azul;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+13;2019-01-31;São Paulo;21;2;Cartão de Crédito;Sandália;Hering;136;283;Azul;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+24;2019-01-31;Belo Horizonte;33;1;Cartão de Débito;Meia;Osklen;5;15;Branco;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+29;2019-01-31;Nova Iguaçu;60;1;Cartão de Crédito;Camisa;Osklen;102;176;Branco;60;Nonna;Salamon;nonna1@hotmail.com;F;3;1992-01-05;1;6
+30;2019-01-31;Rio de Janeiro;74;3;Boleto;Camisa;Hering;95;288;Branco;74;Kasper;Frusher;kasper2@globo.com;M;0;1969-01-06;1;0
+9;2019-01-31;Guarulhos;55;1;Cartão de Débito;Sapato;Reserva;73;191;Vermelho;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+25;2019-01-31;Brasília;80;1;Cartão de Débito;Bota;Osklen;43;104;Azul;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+3;2019-01-31;Rio de Janeiro;90;1;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+26;2019-01-31;Guarulhos;26;1;Dinheiro;Chinelo;Osklen;47;75;Vermelho;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+15;2019-01-31;Rio de Janeiro;46;1;Boleto;Meia;Hering;12;30;Preto;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+25;2019-01-31;Guarulhos;11;1;Dinheiro;Bota;Osklen;43;104;Azul;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+17;2019-01-31;Nova Iguaçu;80;1;Dinheiro;Chinelo;Hering;28;43;Verde;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+11;2019-01-31;São Paulo;31;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+25;2019-01-31;Rio de Janeiro;76;5;Cartão de Crédito;Bota;Osklen;43;104;Azul;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+4;2019-02-20;Rio de Janeiro;11;1;Cartão de Crédito;Sandália;Reserva;123;183;Verde;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+14;2019-02-21;Curitiba;10;1;Cartão de Débito;Boné;Hering;129;281;Verde;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+12;2019-02-22;São Paulo;35;2;Cartão de Crédito;Camiseta;Hering;102;176;Azul;35;Derwin;Lacroux;derwin5@gmail.com;M;0;1987-09-10;9;3
+3;2019-02-23;Rio de Janeiro;87;1;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+15;2019-02-24;Rio Grande do Sul;80;4;Cartão de Crédito;Meia;Hering;12;30;Preto;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+2;2019-02-25;Guarulhos;82;3;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;82;Hadrian;Kervin;hadrian6@uol.com;M;0;1985-01-10;1;3
+27;2019-02-26;Curitiba;42;1;Cartão de Crédito;Sapato;Osklen;40;95;Branco;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+9;2019-02-27;Rio Grande do Sul;70;1;Dinheiro;Sapato;Reserva;73;191;Vermelho;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+14;2019-02-28;Belo Horizonte;32;1;Cartão de Crédito;Boné;Hering;129;281;Verde;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+9;2019-03-01;Guarulhos;93;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+12;2019-03-02;Guarulhos;40;2;Boleto;Camiseta;Hering;102;176;Azul;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+17;2019-03-03;Brasília;20;1;Cartão de Débito;Chinelo;Hering;28;43;Verde;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+29;2019-03-04;Belo Horizonte;68;3;Cartão de Débito;Camisa;Osklen;102;176;Branco;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+21;2019-03-05;Rio de Janeiro;72;1;Cartão de Débito;Camiseta;Osklen;95;288;Laranja;72;Nancee;Rickcord;nancee8@hotmail.com;F;0;2000-10-02;10;0
+26;2019-03-06;Brasília;18;1;Boleto;Chinelo;Osklen;47;75;Vermelho;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+21;2019-03-07;Curitiba;5;4;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+2;2019-03-08;Curitiba;58;1;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;58;Pamella;Paquet;pamella3@uol.com;F;2;1995-11-09;11;3
+2;2019-03-09;Nova Iguaçu;16;1;Boleto;Casaco;Reserva;77;207;Vermelho;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+2;2019-03-10;Rio de Janeiro;23;3;Dinheiro;Casaco;Reserva;77;207;Vermelho;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+9;2019-03-11;Rio de Janeiro;57;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+16;2019-03-12;Rio de Janeiro;24;2;Cartão de Crédito;Bota;Hering;56;106;Vermelho;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+30;2019-03-13;Curitiba;57;5;Cartão de Crédito;Camisa;Hering;95;288;Branco;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+23;2019-03-14;Belo Horizonte;5;1;Cartão de Crédito;Boné;Osklen;72;108;Laranja;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+1;2019-03-15;São Paulo;57;3;Cartão de Crédito;Camisa;Reserva;59;143;Verde;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+18;2019-03-16;São Paulo;92;1;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+29;2019-03-17;Curitiba;80;2;Dinheiro;Camisa;Osklen;102;176;Branco;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+1;2019-03-18;Curitiba;47;5;Cartão de Crédito;Camisa;Reserva;59;143;Verde;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+22;2019-03-19;Brasília;20;1;Cartão de Crédito;Sandália;Osklen;104;273;Azul;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+23;2019-03-20;Nova Iguaçu;37;3;Dinheiro;Boné;Osklen;72;108;Laranja;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+25;2019-03-20;Brasília;86;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+17;2019-03-20;Belo Horizonte;88;1;Dinheiro;Chinelo;Hering;28;43;Verde;88;Lancelot;Loffel;lancelot4@gmail.com;M;0;1966-08-06;8;5
+20;2019-03-20;Nova Iguaçu;72;1;Cartão de Débito;Casaco;Osklen;22;68;Preto;72;Nancee;Rickcord;nancee8@hotmail.com;F;0;2000-10-02;10;0
+17;2019-03-20;Brasília;68;1;Cartão de Débito;Chinelo;Hering;28;43;Verde;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+24;2019-03-20;Rio de Janeiro;72;5;Boleto;Meia;Osklen;5;15;Branco;72;Nancee;Rickcord;nancee8@hotmail.com;F;0;2000-10-02;10;0
+29;2019-03-20;Belo Horizonte;42;1;Cartão de Crédito;Camisa;Osklen;102;176;Branco;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+6;2019-03-20;Guarulhos;28;1;Boleto;Meia;Reserva;23;40;Vermelho;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+24;2019-03-20;Rio Grande do Sul;73;1;Cartão de Crédito;Meia;Osklen;5;15;Branco;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+15;2019-03-20;Rio Grande do Sul;11;2;Dinheiro;Meia;Hering;12;30;Preto;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+29;2019-03-20;São Paulo;7;1;Boleto;Camisa;Osklen;102;176;Branco;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+20;2019-03-20;Rio Grande do Sul;20;1;Boleto;Casaco;Osklen;22;68;Preto;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+2;2019-03-20;São Paulo;42;5;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+16;2019-03-20;Brasília;21;1;Dinheiro;Bota;Hering;56;106;Vermelho;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+13;2019-03-20;Belo Horizonte;29;1;Cartão de Crédito;Sandália;Hering;136;283;Azul;29;Sabine;Kingwell;sabine9@yahoo.com;F;3;1987-01-03;1;5
+2;2019-03-20;Curitiba;2;1;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+21;2019-04-05;Curitiba;38;4;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+12;2019-04-06;Belo Horizonte;24;3;Boleto;Camiseta;Hering;102;176;Azul;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+1;2019-04-07;Belo Horizonte;61;3;Cartão de Débito;Camisa;Reserva;59;143;Verde;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+27;2019-04-08;Rio de Janeiro;83;1;Cartão de Débito;Sapato;Osklen;40;95;Branco;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+4;2019-04-08;Curitiba;56;1;Dinheiro;Sandália;Reserva;123;183;Verde;56;Ragnar;Crabtree;ragnar7@uol.com;M;1;1980-08-05;8;1
+9;2019-04-10;Rio de Janeiro;36;1;Dinheiro;Sapato;Reserva;73;191;Vermelho;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+17;2019-04-11;Rio de Janeiro;84;1;Cartão de Débito;Chinelo;Hering;28;43;Verde;84;Alysia;Hopfner;alysia5@uol.com;F;0;1962-09-18;9;1
+25;2019-04-12;Brasília;11;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+26;2019-04-13;Brasília;73;1;Boleto;Chinelo;Osklen;47;75;Vermelho;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+2;2019-04-14;Rio de Janeiro;47;3;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+26;2019-04-15;São Paulo;8;1;Cartão de Débito;Chinelo;Osklen;47;75;Vermelho;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+26;2019-04-16;Belo Horizonte;65;5;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+14;2019-04-17;Guarulhos;22;1;Cartão de Débito;Boné;Hering;129;281;Verde;22;Meade;Lickess;meade8@uol.com;F;3;1957-03-22;3;4
+6;2019-04-18;Belo Horizonte;52;1;Dinheiro;Meia;Reserva;23;40;Vermelho;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+20;2019-04-19;Rio de Janeiro;23;1;Cartão de Crédito;Casaco;Osklen;22;68;Preto;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+2;2019-04-20;São Paulo;71;1;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+1;2019-04-21;Belo Horizonte;93;4;Boleto;Camisa;Reserva;59;143;Verde;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+17;2019-04-22;Nova Iguaçu;67;1;Cartão de Crédito;Chinelo;Hering;28;43;Verde;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+13;2019-04-23;Curitiba;76;1;Cartão de Crédito;Sandália;Hering;136;283;Azul;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+22;2019-04-24;Rio Grande do Sul;12;4;Cartão de Crédito;Sandália;Osklen;104;273;Azul;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+17;2019-04-25;Nova Iguaçu;19;5;Cartão de Crédito;Chinelo;Hering;28;43;Verde;19;Lizbeth;Kinkaid;lizbeth1@yahoo.com;F;0;1978-04-12;4;2
+7;2019-04-23;Belo Horizonte;88;1;Cartão de Crédito;Bota;Reserva;115;267;Preto;88;Lancelot;Loffel;lancelot4@gmail.com;M;0;1966-08-06;8;5
+4;2019-04-27;Belo Horizonte;13;3;Dinheiro;Sandália;Reserva;123;183;Verde;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+5;2019-04-28;Belo Horizonte;99;1;Cartão de Crédito;Boné;Reserva;92;279;Preto;99;Skipp;Murby;skipp9@hotmail.com;M;0;1966-07-07;7;3
+14;2019-04-29;Nova Iguaçu;63;3;Dinheiro;Boné;Hering;129;281;Verde;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+1;2019-04-30;Curitiba;7;3;Dinheiro;Camisa;Reserva;59;143;Verde;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+19;2019-05-01;Guarulhos;40;1;Dinheiro;Camisa;Osklen;152;277;Verde;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+27;2019-05-02;Guarulhos;79;5;Cartão de Crédito;Sapato;Osklen;40;95;Branco;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+21;2019-05-03;Curitiba;16;1;Boleto;Camiseta;Osklen;95;288;Laranja;16;Clari;De Courtney;clari10@globo.com;F;0;1969-12-31;12;2
+28;2019-05-04;São Paulo;58;4;Cartão de Crédito;Camisa;Reserva;72;110;Branco;58;Pamella;Paquet;pamella3@uol.com;F;2;1995-11-09;11;3
+4;2019-05-05;Belo Horizonte;37;2;Cartão de Débito;Sandália;Reserva;123;183;Verde;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+18;2019-05-06;Belo Horizonte;64;1;Cartão de Débito;Sapato;Hering;69;266;Vermelho;64;West;Dauby;west3@gmail.com;M;0;1967-01-23;1;0
+1;2019-05-07;Belo Horizonte;67;3;Boleto;Camisa;Reserva;59;143;Verde;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+29;2019-05-08;Belo Horizonte;65;1;Cartão de Débito;Camisa;Osklen;102;176;Branco;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+16;2019-05-09;Curitiba;32;1;Dinheiro;Bota;Hering;56;106;Vermelho;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+22;2019-05-10;Brasília;65;1;Cartão de Crédito;Sandália;Osklen;104;273;Azul;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+5;2019-05-09;Nova Iguaçu;9;1;Dinheiro;Boné;Reserva;92;279;Preto;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+24;2019-05-12;Belo Horizonte;45;1;Boleto;Meia;Osklen;5;15;Branco;45;Chloris;Hebble;chloris10@uol.com;F;3;1978-10-23;10;0
+30;2019-05-13;Rio Grande do Sul;43;2;Cartão de Crédito;Camisa;Hering;95;288;Branco;43;Missie;Ianne;missie2@hotmail.com;F;0;1984-03-15;3;3
+23;2019-05-14;Belo Horizonte;32;1;Cartão de Crédito;Boné;Osklen;72;108;Laranja;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+26;2019-05-15;Nova Iguaçu;95;1;Dinheiro;Chinelo;Osklen;47;75;Vermelho;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+7;2019-05-16;Nova Iguaçu;66;5;Dinheiro;Bota;Reserva;115;267;Preto;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+3;2019-05-17;Belo Horizonte;28;1;Cartão de Débito;Camiseta;Reserva;72;110;Laranja;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+11;2019-05-18;Belo Horizonte;63;2;Boleto;Casaco;Hering;77;154;Azul;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+19;2019-05-19;Rio de Janeiro;78;1;Boleto;Camisa;Osklen;152;277;Verde;78;Immanuel;Wilmot;immanuel6@uol.com;M;0;1967-02-27;2;0
+24;2019-05-20;Rio Grande do Sul;100;5;Cartão de Débito;Meia;Osklen;5;15;Branco;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+14;2019-05-21;Nova Iguaçu;95;1;Cartão de Crédito;Boné;Hering;129;281;Verde;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+28;2019-05-22;Guarulhos;17;4;Boleto;Camisa;Reserva;72;110;Branco;17;Colan;Shopcott;colan1@hotmail.com;M;0;1940-06-04;6;1
+16;2019-05-23;Brasília;87;1;Cartão de Crédito;Bota;Hering;56;106;Vermelho;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+18;2019-05-24;Belo Horizonte;9;1;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+11;2019-05-25;Guarulhos;94;4;Boleto;Casaco;Hering;77;154;Azul;94;Guillemette;Schimank;guillemette5@uol.com;F;0;1954-08-02;8;0
+10;2019-05-26;Curitiba;12;1;Boleto;Camisa;Hering;152;220;Azul;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+1;2019-05-27;São Paulo;6;5;Cartão de Crédito;Camisa;Reserva;59;143;Verde;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+20;2019-05-28;Nova Iguaçu;83;5;Dinheiro;Casaco;Osklen;22;68;Preto;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+9;2019-05-29;Guarulhos;18;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+18;2019-05-30;Guarulhos;67;1;Dinheiro;Sapato;Hering;69;266;Vermelho;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+17;2019-05-31;Guarulhos;42;4;Cartão de Débito;Chinelo;Hering;28;43;Verde;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+10;2019-06-01;Rio de Janeiro;10;2;Boleto;Camisa;Hering;152;220;Azul;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+4;2019-06-02;Belo Horizonte;47;1;Boleto;Sandália;Reserva;123;183;Verde;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+4;2019-06-03;Belo Horizonte;7;3;Cartão de Crédito;Sandália;Reserva;123;183;Verde;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+26;2019-06-04;Rio Grande do Sul;96;1;Dinheiro;Chinelo;Osklen;47;75;Vermelho;96;Konstantine;Drewett;konstantine1@globo.com;M;0;1986-04-18;4;4
+22;2019-06-05;São Paulo;13;3;Cartão de Crédito;Sandália;Osklen;104;273;Azul;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+28;2019-06-06;Rio Grande do Sul;60;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;60;Nonna;Salamon;nonna1@hotmail.com;F;3;1992-01-05;1;6
+10;2019-06-07;Rio de Janeiro;15;1;Cartão de Crédito;Camisa;Hering;152;220;Azul;15;Amandie;O'Towey;amandie6@gmail.com;F;3;1947-04-08;4;1
+11;2019-06-08;Nova Iguaçu;49;5;Boleto;Casaco;Hering;77;154;Azul;49;Mitzi;Diehn;mitzi1@globo.com;F;4;1942-08-22;8;5
+18;2019-06-09;Belo Horizonte;13;1;Boleto;Sapato;Hering;69;266;Vermelho;13;Piper;McConnel;piper8@uol.com;F;0;1957-11-08;11;4
+12;2019-06-10;Belo Horizonte;74;1;Boleto;Camiseta;Hering;102;176;Azul;74;Kasper;Frusher;kasper2@globo.com;M;0;1969-01-06;1;0
+24;2019-06-11;Brasília;1;1;Boleto;Meia;Osklen;5;15;Branco;1;Adore;Crush;adore10@gmail.com;F;0;1976-01-13;1;1
+26;2019-06-12;Curitiba;61;2;Boleto;Chinelo;Osklen;47;75;Vermelho;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+7;2019-06-13;Nova Iguaçu;39;5;Dinheiro;Bota;Reserva;115;267;Preto;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+27;2019-06-12;Guarulhos;81;5;Dinheiro;Sapato;Osklen;40;95;Branco;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+15;2019-06-15;Guarulhos;79;1;Cartão de Crédito;Meia;Hering;12;30;Preto;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+10;2019-06-16;Guarulhos;6;1;Boleto;Camisa;Hering;152;220;Azul;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+29;2019-06-17;Guarulhos;80;5;Boleto;Camisa;Osklen;102;176;Branco;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+21;2019-06-18;Belo Horizonte;9;1;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+23;2019-06-19;Rio Grande do Sul;28;5;Cartão de Crédito;Boné;Osklen;72;108;Laranja;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+13;2019-06-20;Guarulhos;64;4;Cartão de Crédito;Sandália;Hering;136;283;Azul;64;West;Dauby;west3@gmail.com;M;0;1967-01-23;1;0
+30;2019-06-21;Rio de Janeiro;81;1;Cartão de Débito;Camisa;Hering;95;288;Branco;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+13;2019-06-22;Belo Horizonte;27;2;Cartão de Débito;Sandália;Hering;136;283;Azul;27;Kip;Berggren;kip4@hotmail.com;F;4;1983-01-28;1;4
+26;2019-06-23;Curitiba;50;3;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;50;Erie;Gon;erie6@gmail.com;M;0;1975-07-18;7;4
+29;2019-06-24;Rio Grande do Sul;94;1;Dinheiro;Camisa;Osklen;102;176;Branco;94;Guillemette;Schimank;guillemette5@uol.com;F;0;1954-08-02;8;0
+27;2019-06-25;Curitiba;24;5;Cartão de Débito;Sapato;Osklen;40;95;Branco;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+17;2019-06-26;Rio Grande do Sul;12;1;Cartão de Crédito;Chinelo;Hering;28;43;Verde;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+26;2019-06-27;São Paulo;71;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+19;2019-06-28;Brasília;21;1;Cartão de Débito;Camisa;Osklen;152;277;Verde;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+21;2019-06-29;Rio de Janeiro;27;1;Cartão de Débito;Camiseta;Osklen;95;288;Laranja;27;Kip;Berggren;kip4@hotmail.com;F;4;1983-01-28;1;4
+9;2019-06-30;Curitiba;52;1;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+21;2019-07-01;Belo Horizonte;47;4;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+25;2019-07-02;São Paulo;8;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+7;2019-07-03;Brasília;21;5;Cartão de Débito;Bota;Reserva;115;267;Preto;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+30;2019-07-04;Nova Iguaçu;18;1;Cartão de Crédito;Camisa;Hering;95;288;Branco;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+14;2019-07-05;São Paulo;10;4;Cartão de Débito;Boné;Hering;129;281;Verde;10;Garvy;Ferrarese;garvy7@gmail.com;M;0;1994-07-28;7;3
+28;2019-07-06;Curitiba;39;1;Boleto;Camisa;Reserva;72;110;Branco;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+26;2019-07-07;São Paulo;59;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;59;Yankee;Hovie;yankee9@hotmail.com;M;3;1976-06-07;6;0
+5;2019-07-08;São Paulo;61;3;Cartão de Crédito;Boné;Reserva;92;279;Preto;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+23;2019-07-09;São Paulo;2;1;Boleto;Boné;Osklen;72;108;Laranja;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+28;2019-07-10;Brasília;11;1;Boleto;Camisa;Reserva;72;110;Branco;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+27;2019-07-11;Brasília;49;1;Boleto;Sapato;Osklen;40;95;Branco;49;Mitzi;Diehn;mitzi1@globo.com;F;4;1942-08-22;8;5
+13;2019-07-12;São Paulo;46;5;Dinheiro;Sandália;Hering;136;283;Azul;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+11;2019-07-13;Nova Iguaçu;37;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+15;2019-07-14;Guarulhos;93;1;Cartão de Débito;Meia;Hering;12;30;Preto;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+7;2019-07-15;Rio Grande do Sul;18;1;Boleto;Bota;Reserva;115;267;Preto;18;Christyna;Granville;christyna4@yahoo.com;F;4;1961-12-31;12;6
+3;2019-07-16;Curitiba;48;5;Boleto;Camiseta;Reserva;72;110;Laranja;48;Audre;Spere;audre4@globo.com;F;0;1985-09-03;9;1
+18;2019-07-17;Belo Horizonte;56;4;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;56;Ragnar;Crabtree;ragnar7@uol.com;M;1;1980-08-05;8;1
+30;2019-07-18;Rio de Janeiro;52;1;Boleto;Camisa;Hering;95;288;Branco;52;Humfrid;Zannolli;humfrid4@globo.com;M;0;1973-05-11;5;4
+28;2019-07-19;Rio de Janeiro;92;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+10;2019-07-20;São Paulo;33;1;Dinheiro;Camisa;Hering;152;220;Azul;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+25;2019-07-21;Rio Grande do Sul;63;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+9;2019-07-22;Brasília;66;3;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;66;Rozina;Brookshaw;rozina6@gmail.com;F;0;1941-02-14;2;4
+18;2019-07-23;Curitiba;3;2;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+21;2019-07-21;Brasília;80;1;Boleto;Camiseta;Osklen;95;288;Laranja;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+26;2019-07-25;Nova Iguaçu;90;1;Cartão de Débito;Chinelo;Osklen;47;75;Vermelho;90;Corella;Kilcoyne;corella5@uol.com;F;0;1977-07-27;7;2
+19;2019-07-26;Rio Grande do Sul;63;1;Cartão de Crédito;Camisa;Osklen;152;277;Verde;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+27;2019-07-27;São Paulo;30;1;Cartão de Crédito;Sapato;Osklen;40;95;Branco;30;Lanna;Cholerton;lanna5@yahoo.com;F;0;1946-12-05;12;3
+15;2019-07-28;Guarulhos;95;2;Cartão de Crédito;Meia;Hering;12;30;Preto;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+6;2019-07-29;Brasília;4;4;Cartão de Débito;Meia;Reserva;23;40;Vermelho;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+29;2019-07-30;Nova Iguaçu;91;1;Cartão de Crédito;Camisa;Osklen;102;176;Branco;91;Nick;Jery;nick1@hotmail.com;M;1;1944-07-15;7;5
+12;2019-07-31;Nova Iguaçu;21;3;Boleto;Camiseta;Hering;102;176;Azul;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+2;2019-08-01;São Paulo;49;3;Dinheiro;Casaco;Reserva;77;207;Vermelho;49;Mitzi;Diehn;mitzi1@globo.com;F;4;1942-08-22;8;5
+10;2019-08-02;Belo Horizonte;29;1;Boleto;Camisa;Hering;152;220;Azul;29;Sabine;Kingwell;sabine9@yahoo.com;F;3;1987-01-03;1;5
+7;2019-08-03;Belo Horizonte;75;1;Boleto;Bota;Reserva;115;267;Preto;75;Ricky;Belsham;ricky7@gmail.com;F;0;1989-11-12;11;6
+20;2019-08-04;Guarulhos;28;5;Cartão de Crédito;Casaco;Osklen;22;68;Preto;28;Fidole;Jane;fidole5@uol.com;M;4;1962-06-09;6;5
+24;2019-08-05;Belo Horizonte;32;5;Dinheiro;Meia;Osklen;5;15;Branco;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+17;2019-08-06;São Paulo;55;1;Cartão de Débito;Chinelo;Hering;28;43;Verde;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+21;2019-08-07;Rio Grande do Sul;40;4;Cartão de Débito;Camiseta;Osklen;95;288;Laranja;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+7;2019-08-08;Brasília;86;1;Dinheiro;Bota;Reserva;115;267;Preto;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+2;2019-08-09;Rio de Janeiro;84;5;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;84;Alysia;Hopfner;alysia5@uol.com;F;0;1962-09-18;9;1
+27;2019-08-10;Nova Iguaçu;41;1;Cartão de Débito;Sapato;Osklen;40;95;Branco;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+18;2019-08-11;Curitiba;75;1;Dinheiro;Sapato;Hering;69;266;Vermelho;75;Ricky;Belsham;ricky7@gmail.com;F;0;1989-11-12;11;6
+26;2019-08-12;Rio de Janeiro;4;2;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+28;2019-08-13;Rio Grande do Sul;34;4;Dinheiro;Camisa;Reserva;72;110;Branco;34;Kayle;Anthonsen;kayle6@hotmail.com;F;0;1963-05-10;5;4
+28;2019-08-14;Rio Grande do Sul;26;1;Cartão de Crédito;Camisa;Reserva;72;110;Branco;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+1;2019-08-15;Belo Horizonte;5;4;Cartão de Débito;Camisa;Reserva;59;143;Verde;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+1;2019-08-16;Brasília;41;3;Cartão de Crédito;Camisa;Reserva;59;143;Verde;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+19;2019-08-17;Rio de Janeiro;6;3;Dinheiro;Camisa;Osklen;152;277;Verde;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+14;2019-08-18;Guarulhos;76;1;Boleto;Boné;Hering;129;281;Verde;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+8;2019-08-19;São Paulo;79;1;Dinheiro;Chinelo;Reserva;62;97;Laranja;79;Ernie;MacClure;ernie7@uol.com;M;0;1989-11-01;11;2
+30;2019-08-20;Curitiba;31;1;Dinheiro;Camisa;Hering;95;288;Branco;31;Melodee;Gierardi;melodee1@globo.com;F;3;1944-09-21;9;3
+16;2019-08-21;São Paulo;38;3;Boleto;Bota;Hering;56;106;Vermelho;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+18;2019-08-22;Rio Grande do Sul;40;2;Dinheiro;Sapato;Hering;69;266;Vermelho;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+12;2019-08-23;Curitiba;40;1;Dinheiro;Camiseta;Hering;102;176;Azul;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+25;2019-08-24;Guarulhos;93;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;93;Rossy;Werndley;rossy8@gmail.com;M;1;1945-02-09;2;4
+26;2019-08-23;Nova Iguaçu;76;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+25;2019-08-26;Curitiba;72;1;Boleto;Bota;Osklen;43;104;Azul;72;Nancee;Rickcord;nancee8@hotmail.com;F;0;2000-10-02;10;0
+9;2019-08-27;Rio de Janeiro;36;3;Boleto;Sapato;Reserva;73;191;Vermelho;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+15;2019-08-28;Belo Horizonte;97;1;Boleto;Meia;Hering;12;30;Preto;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+26;2019-08-29;São Paulo;83;3;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;83;Umeko;Vanacci;umeko9@gmail.com;F;0;1972-04-09;4;6
+28;2019-08-30;Nova Iguaçu;64;1;Boleto;Camisa;Reserva;72;110;Branco;64;West;Dauby;west3@gmail.com;M;0;1967-01-23;1;0
+17;2019-08-31;Rio Grande do Sul;61;1;Dinheiro;Chinelo;Hering;28;43;Verde;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+16;2019-09-01;Curitiba;40;3;Dinheiro;Bota;Hering;56;106;Vermelho;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+18;2019-09-02;Belo Horizonte;80;2;Dinheiro;Sapato;Hering;69;266;Vermelho;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+18;2019-09-03;Rio Grande do Sul;53;4;Cartão de Débito;Sapato;Hering;69;266;Vermelho;53;Dominic;Celloni;dominic10@gmail.com;M;0;1967-07-04;7;1
+16;2019-09-04;Brasília;61;1;Boleto;Bota;Hering;56;106;Vermelho;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+15;2019-09-05;Belo Horizonte;37;5;Cartão de Débito;Meia;Hering;12;30;Preto;37;Whittaker;Tattershall;whittaker7@hotmail.com;M;0;1991-12-11;12;2
+17;2019-09-06;São Paulo;81;4;Cartão de Débito;Chinelo;Hering;28;43;Verde;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+10;2019-09-07;Belo Horizonte;85;1;Dinheiro;Camisa;Hering;152;220;Azul;85;Denise;Curteis;denise6@uol.com;F;0;1997-01-15;1;2
+3;2019-09-08;Nova Iguaçu;57;4;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+9;2019-09-09;Guarulhos;42;4;Cartão de Crédito;Sapato;Reserva;73;191;Vermelho;42;Marian;Rennles;marian6@gmail.com;F;3;1969-03-17;3;0
+6;2019-09-10;Brasília;58;1;Dinheiro;Meia;Reserva;23;40;Vermelho;58;Pamella;Paquet;pamella3@uol.com;F;2;1995-11-09;11;3
+4;2019-09-11;Curitiba;32;1;Dinheiro;Sandália;Reserva;123;183;Verde;32;Jarad;Paeckmeyer;jarad2@globo.com;M;0;1986-01-03;1;4
+12;2019-09-12;São Paulo;71;4;Cartão de Crédito;Camiseta;Hering;102;176;Azul;71;Rees;Broome;rees3@yahoo.com;M;0;1996-07-16;7;1
+14;2019-09-13;São Paulo;68;1;Cartão de Débito;Boné;Hering;129;281;Verde;68;Peyton;Jee;peyton5@globo.com;M;3;2000-02-26;2;5
+20;2019-09-13;Belo Horizonte;6;1;Boleto;Casaco;Osklen;22;68;Preto;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+24;2019-09-13;Belo Horizonte;84;1;Dinheiro;Meia;Osklen;5;15;Branco;84;Alysia;Hopfner;alysia5@uol.com;F;0;1962-09-18;9;1
+13;2019-09-13;Nova Iguaçu;73;1;Dinheiro;Sandália;Hering;136;283;Azul;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+16;2019-09-13;Guarulhos;89;4;Boleto;Bota;Hering;56;106;Vermelho;89;Anne;Huerta;anne1@uol.com;F;1;1940-08-17;8;5
+1;2019-09-13;Rio de Janeiro;87;1;Cartão de Débito;Camisa;Reserva;59;143;Verde;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+14;2019-09-13;Curitiba;53;3;Dinheiro;Boné;Hering;129;281;Verde;53;Dominic;Celloni;dominic10@gmail.com;M;0;1967-07-04;7;1
+13;2019-09-13;Curitiba;88;4;Boleto;Sandália;Hering;136;283;Azul;88;Lancelot;Loffel;lancelot4@gmail.com;M;0;1966-08-06;8;5
+17;2019-09-13;Brasília;46;1;Cartão de Débito;Chinelo;Hering;28;43;Verde;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+16;2019-09-13;Nova Iguaçu;78;1;Boleto;Bota;Hering;56;106;Vermelho;78;Immanuel;Wilmot;immanuel6@uol.com;M;0;1967-02-27;2;0
+18;2019-09-13;Rio Grande do Sul;34;1;Boleto;Sapato;Hering;69;266;Vermelho;34;Kayle;Anthonsen;kayle6@hotmail.com;F;0;1963-05-10;5;4
+26;2019-09-13;Rio Grande do Sul;39;4;Dinheiro;Chinelo;Osklen;47;75;Vermelho;39;Zonnya;Dodds;zonnya4@uol.com;F;0;1999-10-16;10;5
+6;2019-09-13;Curitiba;43;1;Boleto;Meia;Reserva;23;40;Vermelho;43;Missie;Ianne;missie2@hotmail.com;F;0;1984-03-15;3;3
+7;2019-09-26;Guarulhos;11;1;Cartão de Crédito;Bota;Reserva;115;267;Preto;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+26;2019-09-27;Nova Iguaçu;4;3;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+25;2019-09-28;Rio de Janeiro;23;1;Cartão de Débito;Bota;Osklen;43;104;Azul;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+8;2019-09-29;Rio Grande do Sul;5;4;Cartão de Débito;Chinelo;Reserva;62;97;Laranja;5;Giordano;Minihan;giordano9@gmail.com;M;0;1969-06-04;6;2
+22;2019-09-29;Curitiba;81;1;Dinheiro;Sandália;Osklen;104;273;Azul;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+13;2019-10-01;São Paulo;62;5;Cartão de Débito;Sandália;Hering;136;283;Azul;62;Madison;Labern;madison1@gmail.com;M;0;1981-04-01;4;2
+1;2019-10-02;Guarulhos;41;5;Boleto;Camisa;Reserva;59;143;Verde;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+6;2019-10-03;Rio de Janeiro;65;4;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+20;2019-10-04;Guarulhos;82;2;Cartão de Crédito;Casaco;Osklen;22;68;Preto;82;Hadrian;Kervin;hadrian6@uol.com;M;0;1985-01-10;1;3
+8;2019-10-05;Nova Iguaçu;11;1;Boleto;Chinelo;Reserva;62;97;Laranja;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+17;2019-10-06;Guarulhos;70;1;Cartão de Crédito;Chinelo;Hering;28;43;Verde;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+24;2019-10-07;Nova Iguaçu;86;3;Dinheiro;Meia;Osklen;5;15;Branco;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+22;2019-10-08;Curitiba;97;5;Cartão de Crédito;Sandália;Osklen;104;273;Azul;97;Brewer;Brogan;brewer1@yahoo.com;M;4;1994-09-18;9;6
+21;2019-10-09;Rio Grande do Sul;51;1;Dinheiro;Camiseta;Osklen;95;288;Laranja;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+21;2019-10-10;São Paulo;26;1;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;26;Reggis;Albutt;reggis8@gmail.com;M;1;1971-01-21;1;3
+21;2019-10-11;São Paulo;4;1;Dinheiro;Camiseta;Osklen;95;288;Laranja;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+18;2019-10-12;Curitiba;8;4;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+17;2019-10-13;Rio Grande do Sul;30;5;Cartão de Débito;Chinelo;Hering;28;43;Verde;30;Lanna;Cholerton;lanna5@yahoo.com;F;0;1946-12-05;12;3
+1;2019-10-14;Nova Iguaçu;21;1;Cartão de Crédito;Camisa;Reserva;59;143;Verde;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+7;2019-10-15;Rio de Janeiro;76;1;Cartão de Crédito;Bota;Reserva;115;267;Preto;76;Raychel;Zorzutti;raychel4@gmail.com;F;3;1963-06-29;6;5
+26;2019-10-16;São Paulo;7;5;Boleto;Chinelo;Osklen;47;75;Vermelho;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+23;2019-10-17;Belo Horizonte;40;5;Cartão de Débito;Boné;Osklen;72;108;Laranja;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+20;2019-10-17;Rio de Janeiro;55;1;Boleto;Casaco;Osklen;22;68;Preto;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+14;2019-10-17;Nova Iguaçu;100;3;Cartão de Crédito;Boné;Hering;129;281;Verde;100;Serge;Shearstone;serge9@uol.com;M;1;1991-01-25;1;4
+17;2019-10-17;Guarulhos;85;2;Cartão de Crédito;Chinelo;Hering;28;43;Verde;85;Denise;Curteis;denise6@uol.com;F;0;1997-01-15;1;2
+7;2019-10-17;Rio Grande do Sul;11;1;Cartão de Crédito;Bota;Reserva;115;267;Preto;11;Bronson;Jervoise;bronson10@gmail.com;M;0;1989-09-10;9;6
+19;2019-10-17;Nova Iguaçu;40;1;Boleto;Camisa;Osklen;152;277;Verde;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+15;2019-10-17;Rio de Janeiro;67;1;Dinheiro;Meia;Hering;12;30;Preto;67;Gary;Bush;gary7@globo.com;M;1;1943-11-28;11;6
+4;2019-10-17;Rio Grande do Sul;48;2;Boleto;Sandália;Reserva;123;183;Verde;48;Audre;Spere;audre4@globo.com;F;0;1985-09-03;9;1
+24;2019-10-17;Curitiba;7;2;Cartão de Débito;Meia;Osklen;5;15;Branco;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+13;2019-10-17;São Paulo;63;1;Dinheiro;Sandália;Hering;136;283;Azul;63;Emmaline;Doelle;emmaline10@uol.com;F;0;1997-08-28;8;3
+21;2019-10-17;Belo Horizonte;70;1;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;70;Tildi;Dishmon;tildi7@yahoo.com;F;0;1943-05-04;5;1
+11;2019-10-17;São Paulo;3;2;Boleto;Casaco;Hering;77;154;Azul;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+12;2019-10-17;Brasília;14;1;Cartão de Crédito;Camiseta;Hering;102;176;Azul;14;Loree;Kubek;loree6@hotmail.com;F;2;1981-08-26;8;2
+17;2019-10-30;São Paulo;77;1;Cartão de Crédito;Chinelo;Hering;28;43;Verde;77;Vinni;Hirschmann;vinni6@yahoo.com;F;0;1979-12-12;12;2
+8;2019-10-31;Rio Grande do Sul;58;1;Cartão de Crédito;Chinelo;Reserva;62;97;Laranja;58;Pamella;Paquet;pamella3@uol.com;F;2;1995-11-09;11;3
+17;2019-11-01;Curitiba;98;4;Boleto;Chinelo;Hering;28;43;Verde;98;Greg;Merwe;greg3@uol.com;M;0;1949-03-05;3;5
+12;2019-11-02;São Paulo;19;2;Cartão de Crédito;Camiseta;Hering;102;176;Azul;19;Lizbeth;Kinkaid;lizbeth1@yahoo.com;F;0;1978-04-12;4;2
+12;2019-11-03;Nova Iguaçu;8;1;Cartão de Crédito;Camiseta;Hering;102;176;Azul;8;Gilly;Firby;gilly10@globo.com;F;0;1943-11-25;11;3
+30;2019-11-04;Brasília;34;1;Boleto;Camisa;Hering;95;288;Branco;34;Kayle;Anthonsen;kayle6@hotmail.com;F;0;1963-05-10;5;4
+18;2019-11-05;Brasília;2;5;Cartão de Débito;Sapato;Hering;69;266;Vermelho;2;Pegeen;Sanday;pegeen2@yahoo.com;F;3;1974-10-26;10;5
+5;2019-11-05;Brasília;56;1;Dinheiro;Boné;Reserva;92;279;Preto;56;Ragnar;Crabtree;ragnar7@uol.com;M;1;1980-08-05;8;1
+23;2019-11-05;Rio Grande do Sul;59;4;Dinheiro;Boné;Osklen;72;108;Laranja;59;Yankee;Hovie;yankee9@hotmail.com;M;3;1976-06-07;6;0
+11;2019-11-05;Rio de Janeiro;92;1;Cartão de Débito;Casaco;Hering;77;154;Azul;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+7;2019-11-05;Brasília;36;1;Cartão de Débito;Bota;Reserva;115;267;Preto;36;Niven;Scruby;niven5@globo.com;M;0;1992-12-15;12;1
+17;2019-11-05;Rio Grande do Sul;40;1;Dinheiro;Chinelo;Hering;28;43;Verde;40;Analiese;Cracknell;analiese10@gmail.com;F;0;1974-10-06;10;6
+17;2019-11-05;Guarulhos;65;3;Cartão de Crédito;Chinelo;Hering;28;43;Verde;65;Zilvia;Kummerlowe;zilvia10@uol.com;F;2;1963-10-26;10;5
+24;2019-11-05;Rio de Janeiro;35;2;Cartão de Crédito;Meia;Osklen;5;15;Branco;35;Derwin;Lacroux;derwin5@gmail.com;M;0;1987-09-10;9;3
+10;2019-11-05;São Paulo;95;1;Cartão de Crédito;Camisa;Hering;152;220;Azul;95;Nari;Kenward;nari9@gmail.com;F;3;1958-11-08;11;5
+12;2019-11-05;Brasília;27;5;Cartão de Crédito;Camiseta;Hering;102;176;Azul;27;Kip;Berggren;kip4@hotmail.com;F;4;1983-01-28;1;4
+13;2019-11-05;Nova Iguaçu;61;1;Cartão de Débito;Sandália;Hering;136;283;Azul;61;Sanford;Mager;sanford3@globo.com;M;0;1957-01-27;1;6
+23;2019-11-05;Rio Grande do Sul;44;1;Boleto;Boné;Osklen;72;108;Laranja;44;Shandra;Brockelsby;shandra1@globo.com;F;0;1959-03-17;3;1
+11;2019-11-05;São Paulo;21;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;21;Rowan;Utting;rowan9@uol.com;M;3;1985-11-14;11;3
+24;2019-11-05;Belo Horizonte;9;1;Dinheiro;Meia;Osklen;5;15;Branco;9;Justina;Van Arsdalen;justina7@uol.com;F;0;1969-09-07;9;6
+6;2019-11-19;Curitiba;12;5;Cartão de Débito;Meia;Reserva;23;40;Vermelho;12;Nicholas;Ciccetti;nicholas1@yahoo.com;M;1;1983-07-16;7;5
+12;2019-11-20;São Paulo;1;1;Dinheiro;Camiseta;Hering;102;176;Azul;1;Adore;Crush;adore10@gmail.com;F;0;1976-01-13;1;1
+5;2019-11-21;São Paulo;75;1;Boleto;Boné;Reserva;92;279;Preto;75;Ricky;Belsham;ricky7@gmail.com;F;0;1989-11-12;11;6
+12;2019-11-22;São Paulo;3;2;Cartão de Crédito;Camiseta;Hering;102;176;Azul;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+16;2019-11-23;Rio de Janeiro;3;1;Boleto;Bota;Hering;56;106;Vermelho;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+24;2019-11-24;Rio de Janeiro;74;1;Dinheiro;Meia;Osklen;5;15;Branco;74;Kasper;Frusher;kasper2@globo.com;M;0;1969-01-06;1;0
+11;2019-11-24;Curitiba;19;5;Cartão de Débito;Casaco;Hering;77;154;Azul;19;Lizbeth;Kinkaid;lizbeth1@yahoo.com;F;0;1978-04-12;4;2
+18;2019-11-24;São Paulo;6;1;Cartão de Débito;Sapato;Hering;69;266;Vermelho;6;Terry;Kinge;terry9@hotmail.com;F;0;1981-07-11;7;5
+10;2019-11-24;Belo Horizonte;20;1;Boleto;Camisa;Hering;152;220;Azul;20;Shelley;Moorcraft;shelley8@gmail.com;F;3;1988-11-13;11;6
+15;2019-11-24;Rio de Janeiro;24;1;Cartão de Débito;Meia;Hering;12;30;Preto;24;Beniamino;McCrackem;beniamino4@gmail.com;M;0;1947-05-08;5;3
+24;2019-11-24;Brasília;57;3;Boleto;Meia;Osklen;5;15;Branco;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+7;2019-11-24;São Paulo;75;2;Dinheiro;Bota;Reserva;115;267;Preto;75;Ricky;Belsham;ricky7@gmail.com;F;0;1989-11-12;11;6
+13;2019-11-24;Curitiba;50;1;Cartão de Débito;Sandália;Hering;136;283;Azul;50;Erie;Gon;erie6@gmail.com;M;0;1975-07-18;7;4
+13;2019-11-24;Nova Iguaçu;81;2;Dinheiro;Sandália;Hering;136;283;Azul;81;Aurea;Whyman;aurea3@gmail.com;F;0;1958-04-06;4;6
+7;2019-11-24;Guarulhos;29;3;Cartão de Crédito;Bota;Reserva;115;267;Preto;29;Sabine;Kingwell;sabine9@yahoo.com;F;3;1987-01-03;1;5
+21;2019-11-24;Nova Iguaçu;46;1;Cartão de Crédito;Camiseta;Osklen;95;288;Laranja;46;Jay;Gaffey;jay5@globo.com;M;0;1972-08-18;8;4
+6;2019-11-24;Guarulhos;33;1;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;33;Donelle;Goodsal;donelle8@hotmail.com;F;0;1955-03-01;3;1
+25;2019-11-24;Curitiba;51;4;Cartão de Crédito;Bota;Osklen;43;104;Azul;51;Oran;Christmas;oran7@hotmail.com;M;0;1956-09-02;9;6
+4;2019-11-24;Brasília;15;4;Cartão de Crédito;Sandália;Reserva;123;183;Verde;15;Amandie;O'Towey;amandie6@gmail.com;F;3;1947-04-08;4;1
+18;2019-12-08;Belo Horizonte;38;1;Dinheiro;Sapato;Hering;69;266;Vermelho;38;Hamid;Fantini;hamid9@gmail.com;M;2;1944-11-26;11;6
+3;2019-12-09;São Paulo;14;3;Cartão de Crédito;Camiseta;Reserva;72;110;Laranja;14;Loree;Kubek;loree6@hotmail.com;F;2;1981-08-26;8;2
+23;2019-12-10;Curitiba;23;1;Cartão de Crédito;Boné;Osklen;72;108;Laranja;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+2;2019-12-11;Brasília;41;4;Cartão de Crédito;Casaco;Reserva;77;207;Vermelho;41;Franciskus;Adcocks;franciskus10@yahoo.com;M;0;1960-12-11;12;6
+2;2019-12-12;Guarulhos;15;5;Cartão de Débito;Casaco;Reserva;77;207;Vermelho;15;Amandie;O'Towey;amandie6@gmail.com;F;3;1947-04-08;4;1
+28;2019-12-13;Brasília;7;5;Cartão de Crédito;Camisa;Reserva;72;110;Branco;7;Curtis;Hussy;curtis9@yahoo.com;M;0;1963-10-12;10;5
+6;2019-12-14;Brasília;23;4;Cartão de Crédito;Meia;Reserva;23;40;Vermelho;23;Anna;Tremontana;anna2@uol.com;F;2;1980-08-25;8;0
+26;2019-12-15;Curitiba;99;2;Cartão de Débito;Chinelo;Osklen;47;75;Vermelho;99;Skipp;Murby;skipp9@hotmail.com;M;0;1966-07-07;7;3
+10;2019-12-16;Guarulhos;3;1;Cartão de Débito;Camisa;Hering;152;220;Azul;3;Brooks;Prahl;brooks4@uol.com;M;2;1978-09-18;9;0
+24;2019-12-17;Curitiba;48;1;Boleto;Meia;Osklen;5;15;Branco;48;Audre;Spere;audre4@globo.com;F;0;1985-09-03;9;1
+11;2019-12-18;Rio Grande do Sul;4;1;Cartão de Crédito;Casaco;Hering;77;154;Azul;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+26;2019-12-19;Curitiba;55;1;Cartão de Crédito;Chinelo;Osklen;47;75;Vermelho;55;Cally;Scamwell;cally6@uol.com;F;0;1985-07-31;7;2
+3;2019-12-20;Brasília;57;1;Cartão de Débito;Camiseta;Reserva;72;110;Laranja;57;Augusta;Rawlingson;augusta9@hotmail.com;F;0;1997-06-05;6;3
+8;2019-12-20;São Paulo;47;1;Cartão de Débito;Chinelo;Reserva;62;97;Laranja;47;Teodor;Noyce;teodor4@hotmail.com;M;0;1959-12-28;12;0
+25;2019-12-20;Rio Grande do Sul;87;1;Cartão de Crédito;Bota;Osklen;43;104;Azul;87;Josephine;McKeller;josephine4@globo.com;F;4;1942-08-26;8;2
+15;2019-12-20;Curitiba;73;1;Cartão de Crédito;Meia;Hering;12;30;Preto;73;Bernardine;Mochan;bernardine5@hotmail.com;F;4;1982-05-30;5;6
+10;2019-12-24;Belo Horizonte;56;1;Cartão de Débito;Camisa;Hering;152;220;Azul;56;Ragnar;Crabtree;ragnar7@uol.com;M;1;1980-08-05;8;1
+18;2019-12-25;Rio de Janeiro;27;1;Cartão de Crédito;Sapato;Hering;69;266;Vermelho;27;Kip;Berggren;kip4@hotmail.com;F;4;1983-01-28;1;4
+13;2019-12-26;São Paulo;35;5;Cartão de Débito;Sandália;Hering;136;283;Azul;35;Derwin;Lacroux;derwin5@gmail.com;M;0;1987-09-10;9;3
+24;2019-12-27;Nova Iguaçu;92;4;Boleto;Meia;Osklen;5;15;Branco;92;Nye;Wonfor;nye5@globo.com;M;0;1942-03-03;3;1
+8;2019-12-28;Rio de Janeiro;80;1;Boleto;Chinelo;Reserva;62;97;Laranja;80;Rafaello;Stilldale;rafaello5@globo.com;M;2;1972-10-25;10;2
+20;2019-12-29;Curitiba;4;1;Cartão de Crédito;Casaco;Osklen;22;68;Preto;4;Bethena;Allot;bethena1@yahoo.com;F;4;1950-10-06;10;4
+8;2019-12-30;Rio de Janeiro;86;1;Dinheiro;Chinelo;Reserva;62;97;Laranja;86;Hugues;Yardley;hugues9@hotmail.com;M;2;1989-05-18;5;3
+23;2019-12-31;Rio de Janeiro;1;1;Boleto;Boné;Osklen;72;108;Laranja;1;Adore;Crush;adore10@gmail.com;F;0;1976-01-13;1;1
